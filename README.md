@@ -1,6 +1,6 @@
 # Hi there 👋
 
-UX Mobile Engineer at [**Smartfren**](https://play.google.com/store/apps/details?id=com.smartfren&hl=id)
+I am Mobile Engineer at [**Smartfren**](https://play.google.com/store/apps/details?id=com.smartfren&hl=id)
 
 
 ### About Me
