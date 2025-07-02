@@ -1,12 +1,9 @@
 # Hi there 👋
 
-I am Mobile Engineer at [**Smartfren**](https://play.google.com/store/apps/details?id=com.smartfren&hl=id)
-
+I am Senior Software Engineer at Appfuxion Consulting Malaysia.
 
 ### About Me
 - 🔭 I’m currently working on **React Native** and **React.JS**
-- 🌱 I’m currently learning **AWS**
-
 
 ### Portfolio
 [Mobile Application](https://www.notion.so/vinswilliam/Portfolio-William-2024-00512ee840484681a9260dd6e1c8f4c2)
