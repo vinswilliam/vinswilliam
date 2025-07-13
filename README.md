@@ -6,7 +6,8 @@ I am Senior Software Engineer at Appfuxion Consulting Malaysia.
 - 🔭 I’m currently working on **React Native** and **React.JS**
 
 ### Portfolio
-[Mobile Application](https://www.notion.so/vinswilliam/Portfolio-William-2024-00512ee840484681a9260dd6e1c8f4c2)
+- [visit me](https://vinswilliam.github.io)
+- [Mobile Application](https://www.notion.so/vinswilliam/Portfolio-William-2024-00512ee840484681a9260dd6e1c8f4c2)
 
 
 ### How to reach me:
